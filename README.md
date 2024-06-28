@@ -20,7 +20,7 @@ This repository is organised into the following sections:
    - [03-Iterators and Generators Homework - Solution](https://github.com/franpanteli/Python-Bootcamp-Module-13-Generators-With-Python/blob/main/Jupyter%20Notebooks%20-%20Python%20Generators/03-Iterators%20and%20Generators%20Homework%20-%20Solution.ipynb)
 
 2. **Notes on Videos - Module 13 Generators With Python:**
-   This section contains PDF notes summarising the key points from the video lectures in Module 13.
+   this section contains PDF notes summarising the key points from the video lectures in Module 13.
    - [1 of 3 Generators with Python](https://github.com/franpanteli/Python-Bootcamp-Module-13-Generators-With-Python/blob/main/Notes%20on%20Videos%20-%20Module%2013%20Generators%20With%20Python/1%20of%203%20Generators%20with%20Python.pdf)
    - [2 of 3 Generators Homework Overview](https://github.com/franpanteli/Python-Bootcamp-Module-13-Generators-With-Python/blob/main/Notes%20on%20Videos%20-%20Module%2013%20Generators%20With%20Python/2%20of%203%20Generators%20Homework%20Overview.pdf)
    - [3 of 3 Generators Homework Solutions](https://github.com/franpanteli/Python-Bootcamp-Module-13-Generators-With-Python/blob/main/Notes%20on%20Videos%20-%20Module%2013%20Generators%20With%20Python/3%20of%203%20Generators%20Homework%20Solutions.pdf)
